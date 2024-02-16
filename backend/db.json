@@ -1,0 +1,29 @@
+{
+  "courses": [
+    {
+      "courseName": "fullStack Hard Core Developer",
+      "trainer": "Krishan ",
+      "id": "0bb4"
+    },
+    {
+      "courseName": "java fullstack",
+      "trainer": "sujith hhh",
+      "id": "9aff"
+    },
+    {
+      "courseName": "fullstack",
+      "trainer": "krishan",
+      "id": "8641"
+    },
+    {
+      "courseName": "krishan kumar",
+      "trainer": "full stack",
+      "id": "a058"
+    },
+    {
+      "id": "688c",
+      "courseName": "flutter",
+      "trainer": "shesi"
+    }
+  ]
+}
